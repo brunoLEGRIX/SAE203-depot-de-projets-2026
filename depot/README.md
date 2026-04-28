@@ -9,23 +9,23 @@ Une fois les pull-requests de toutes les équipes complétés, la structure de c
 
 ```shell
 .
-├── Equipe1
+├── EquipeR1
 │   └── README.md
-├── Equipe2
+├── EquipeR2
 │   └── README.md
-├── Equipe3
+├── EquipeR3
 │   └── README.md
-├── Equipe4
+├── EquipeR4
 │   └── README.md
-├── Equipe5
+├── EquipeR5
 │   └── README.md
-├── Equipe6
+├── EquipeV1
 │   └── README.md
-├── Equipe7
+├── EquipeV2
 │   └── README.md
-├── Equipe8
+├── EquipeV3
 │   └── README.md
-├── Equipe9
+├── EquipeV4
 │   └── README.md
 ├── ...
 │   
