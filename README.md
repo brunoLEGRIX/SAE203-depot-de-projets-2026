@@ -2,7 +2,7 @@
 
 - La livraison de votre projet se fera par le biais d'un [pull-request](https://brunoLEGRIX.github.io/Introduction-GIT/tp4/)  vers ce référentiel. Si vous avez besoin de vous rappeler comment le faire, visitez [le TP4 du cours d'introduction à git](https://brunoLEGRIX.github.io/Introduction-GIT/tp4/).
 
-- Pour memoire, après avoir fait un ```fork``` et puis un ```clone``` du référentiel, créez une nouvelle branche où vous allez apporter les modification. Dans la nouvelle branche entrez dans le dossier ```depots``` et créez un dossier ```EquipeX``` (où le X sera changé par votre numéro d'équipe dans cette SAE : R1, ..., R5, ..., B5).
+- Pour memoire, après avoir fait un ```fork``` et puis un ```clone``` du référentiel, créez une nouvelle branche où vous allez apporter les modification. Dans la nouvelle branche entrez dans le dossier ```depots``` et créez un dossier ```EquipeX``` (où le X sera changé par votre numéro d'équipe dans cette SAÉ : R1, ..., R5, ..., B5).
 
 - Le contenu du répertoire [**depots/equipeC1/**](https://github.com/brunoLEGRIX/depot-de-projets-SAE203-2026/tree/master/depots/equipeC1) peut servir de modèle pour remplir le ```README.md``` respectif de votre équipe.
 
@@ -29,12 +29,12 @@
 │   └── README.md
 ├── EquipeV2
 │   └── README.md
-├── Equipe8
+├── EquipeV3
 │   └── README.md
-├── Equipe9
+├── EquipeV4
 │   └── README.md
 ├── ...
 │   
-└── EquipeX
+└── EquipeC1
     └── README.md
 ```

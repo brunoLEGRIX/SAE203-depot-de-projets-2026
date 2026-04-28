@@ -1,5 +1,5 @@
-# Projet SAE 2.03 Equipe X
-_(Changez la X par votre numéro d'équipe : R1,..., R5, V1, ..., V5, B1, ..., B5)_
+# Projet SAE 2.03 Equipe C1
+_(Changez la C par votre numéro d'équipe : R1,..., R5, V1, ..., V5, B1, ..., B5)_
 
 ## Titre du projet
 _(Le titre doit être court et descriptif)_
@@ -9,7 +9,7 @@ _(Le titre doit être court et descriptif)_
 ## Membres de l'équipe
 _(**Format :** Demi-groupe - NOM Prénom)_
 
-- P1 - COLIN Jean-Yves
+- P1 - COLIN  Jean-Yves
 - P2 - LEGRIX Bruno
 
 ## Liens vers le site web du projet
