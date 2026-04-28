@@ -1,5 +1,5 @@
 # Projet SAE 2.03 Equipe X
-_(Changez la X par votre numéro d'équipe)_
+_(Changez la X par votre numéro d'équipe : R1,..., R5, V1, ..., V5, B1, ..., B5)_
 
 ## Titre du projet
 _(Le titre doit être court et descriptif)_
